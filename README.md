@@ -1,6 +1,6 @@
-🎵 Music Player App
+**🎵 Music Player App**
 
-Author: Adekunle John
+**Author: Adekunle John**
 
 A responsive web-based Music Player Application built with React.js and Tailwind CSS, integrated with the Audiomack API to allow users to search for and play music tracks online. It also includes custom playlists and a fallback demo track for songs without previews.
 
@@ -32,7 +32,7 @@ API: Audiomack Public API
 
 Deployment: Netlify / Vercel
 🎶 Usage
-
+**HOW IT WORKS**
 Type a song name in the search bar.
 
 Click on any track to start playing.
@@ -49,7 +49,7 @@ Some Audiomack tracks may not load previews due to API limitations.
 
 Local playlist data resets after refreshing (future fix: add localStorage persistence).
 
-🔮 Next Steps
+**🔮 Next Steps**
 
 Add user authentication for personal playlists.
 
@@ -59,16 +59,15 @@ Integrate dark/light mode toggle.
 
 Store playlists permanently using localStorage or Firebase.
 
-📹 Project Presentation
+**📹 Project Presentation**
 
 A 5-minute demo presentation created with Loom:
 🎥 View My Presentation Video on Loom
 
-💬 Contact
+**💬 Contact**
 
 Name: Adekunle John
-Email: [youremail@example.com
-]
-GitHub: github.com/your-username
+Email: temmacrown41@gmail.com
+GitHub: github.com/Temmacrown
 
 Deployed App: music-player.netlify.app
